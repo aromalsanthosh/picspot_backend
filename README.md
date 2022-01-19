@@ -1,4 +1,7 @@
-# Sanity Clean Content Studio
+# Sanity Backend Of Picspot Web App
+
+<img src="/Pokewiki_Banner.png">
+
 
 
 
