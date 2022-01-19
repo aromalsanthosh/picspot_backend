@@ -1,6 +1,6 @@
 # Sanity Backend Of Picspot Web App
 
-<img src="/Pokewiki_Banner.png">
+<img src="/banner.png">
 
 
 
